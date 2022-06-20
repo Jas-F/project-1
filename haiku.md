@@ -1,4 +1,5 @@
 system.out.printin("Hello World");
+<<<<<<< Updated upstream
 
 
 Have you tried this poem?
@@ -9,6 +10,9 @@ rainy days are gone.
 
 
 
+=======
+Funny days are here to stay
+>>>>>>> Stashed changes
 
 system.out.println("Goodbye world");
 
