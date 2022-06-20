@@ -1,8 +1,8 @@
 system.out.printin("Hello World");
-<<<<<<< Updated upstream
-Have you tried this poem? - joe
-Sunny days are here to stay
-=======
+An old silent pond
+A frog jumps into the pond—
+Splash! Silence again.
+
 Have you tried this poem?
 Sunny days are here to stay - jjjj
 >>>>>>> Stashed changes
